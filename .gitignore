@@ -1,3 +1,8 @@
-.DS_store
+
+# Python
 __pycache__/
+
+# Mac/OSX
+.DS_store
+
 
