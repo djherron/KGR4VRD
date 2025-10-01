@@ -3,5 +3,5 @@
 ## KGR4VRD
 
 KGR4VRD hosts code associated with the paper:
-> **Herron, D., Jimenez-Ruiz, E., Weyde, T.** (2025). `Logical Reasoning and Validation using Knowledge Graphs for Learning Visual Relationship Detection.`
+> **Herron, D., Jimenez-Ruiz, E., Weyde, T.** (2025). `Logical Reasoning with OWL Knowledge Graphs for Learning and Validating Visual Relationship Detection.`
 
