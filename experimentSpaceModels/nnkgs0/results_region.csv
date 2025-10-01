@@ -1,0 +1,5 @@
+Results_Region_Cell_ID,D_perfTarget,Comments
+1,1,evaluate performance against the baseline test set VR annotations
+2,2,"evaluate performance against KG-augmented test set VR annotations, where the ontology used is indicated by D_onto of the training region"
+3,3,evaluate performance against baseline test set VR annotations that have been filtered using filter scheme 01 (owl:SymmetricProperty)
+4,4,evaluate performance against KG-augmented test set VR annotations that have been filtered using filter scheme 01 (owl:SymmetricProperty)
