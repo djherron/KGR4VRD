@@ -15,13 +15,13 @@ Our research, and hence our code, uses the **NeSy4VRD** dataset.
 The acronym NeSy4VRD stands for "Neurosymbolic AI for Visual Relationship Detection". 
 NeSy4VRD is a unique **`image dataset plus OWL ontology' resource** that we created to facilitate our neurosymbolic AI research.
 
-NeSy4VRD has two components: the NeSy4VRD dataset package, and the NeSy4VRD repository.
+NeSy4VRD has two components: the NeSy4VRD dataset package, and the NeSy4VRD GitHub repository.
 
-The **NeSy4VRD dataset package** contains *(i)* the NeSy4VRD dataset, consisting of an image dataset with high-quality visual relationship annotations, and *(ii)* the NeSy4VRD OWL ontology, called **VRD-World**.  VRD-World is a custom-designed, closely-aligned, common sense companion to the NeSy4VRD dataset.  It describes the world reflected in the NeSy4VRD images and annotated visual relationships (their object classes, and predicates) in common sense terms.
-The NeSy4VRD dataset package is available on [Zenodo](https://doi.org/10.5281/zenodo.7916355).
+The **NeSy4VRD dataset package** contains *(i)* the NeSy4VRD dataset, consisting of an image dataset with high-quality visual relationship annotations, and *(ii)* the NeSy4VRD OWL ontology, **VRD-World**.  VRD-World is a custom-designed, closely-aligned, common sense, companion ontology to the NeSy4VRD dataset.  It describes the world reflected in the NeSy4VRD images and annotated visual relationships (their object classes, and predicates) in a common sense way.
+The NeSy4VRD dataset package is available on the open-access digital repository [Zenodo](https://doi.org/10.5281/zenodo.7916355).
 
-
-
+The **NeSy4VRD GitHub repository** hosts *(i)* code and related infrastructure that supports extensibility of NeSy4VRD, *(ii)* extensive documentation describing how to use the extensibility support features made available, and *(iii)* sample code.
+The NeSy4VRD GitHub repository is availabel on [GitHub](https://github.com/djherron/NeSy4VRD).
 
 
 
