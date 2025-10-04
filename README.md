@@ -9,7 +9,9 @@ The code hosted here is associated with the (forthcoming) paper:
 
 ## NeSy4VRD
 
-The acronym NeSy4VRD stands for "Neurosymbolic AI for Visual Relationship Detection". NeSy4VRD is a unique `image dataset plus OWL ontology' resource that we created.
+Our research, and hence our code, uses the NeSy4VRD dataset.
+The acronym NeSy4VRD stands for "Neurosymbolic AI for Visual Relationship Detection". 
+NeSy4VRD is a unique `image dataset plus OWL ontology' resource that we created.
 
 
 
