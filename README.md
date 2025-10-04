@@ -17,7 +17,7 @@ NeSy4VRD is a unique **`image dataset plus OWL ontology' resource** that we crea
 
 NeSy4VRD has two components: the NeSy4VRD dataset package, and the NeSy4VRD GitHub repository.
 
-The **NeSy4VRD dataset package** contains *(i)* the NeSy4VRD dataset, consisting of an image dataset with high-quality visual relationship annotations, and *(ii)* the NeSy4VRD OWL ontology, **VRD-World**.  VRD-World is a custom-designed, closely-aligned, common sense, companion ontology to the NeSy4VRD dataset.  It describes the world reflected in the NeSy4VRD images and annotated visual relationships (their object classes, and predicates) in a common sense way.
+The **NeSy4VRD dataset package** contains *(i)* the NeSy4VRD dataset, consisting of an image dataset with high-quality visual relationship annotations, and *(ii)* the NeSy4VRD OWL ontology, **VRD-World**.  VRD-World is a custom-designed, closely-aligned, common sense, companion ontology to the NeSy4VRD dataset.  It describes the world reflected in the visual relationships annotated for the NeSy4VRD images (their object classes and predicates) in a common sense way. The close alignment of VRD-World OWL ontology with the NeSy4VRD dataset ensures that the results of symbolic OWL reasoning are pertinent to the deep (subsymbolic) learning task at hand: visual relationship detection.
 The NeSy4VRD dataset package is available on the open-access digital repository [Zenodo](https://doi.org/10.5281/zenodo.7916355).
 
 The **NeSy4VRD GitHub repository** hosts *(i)* code and related infrastructure that supports extensibility of NeSy4VRD, *(ii)* extensive documentation describing how to use the extensibility support features made available, and *(iii)* sample code.
