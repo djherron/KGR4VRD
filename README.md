@@ -21,7 +21,7 @@ The **NeSy4VRD dataset package** contains *(i)* the NeSy4VRD dataset, consisting
 The NeSy4VRD dataset package is available on the open-access digital repository [Zenodo](https://doi.org/10.5281/zenodo.7916355).
 
 The **NeSy4VRD GitHub repository** hosts *(i)* code and related infrastructure that supports extensibility of NeSy4VRD, *(ii)* extensive documentation describing how to use the extensibility support features made available, and *(iii)* sample code.
-The NeSy4VRD GitHub repository is availabel on [GitHub](https://github.com/djherron/NeSy4VRD).
+The NeSy4VRD GitHub repository is on [GitHub](https://github.com/djherron/NeSy4VRD).
 
 
 
