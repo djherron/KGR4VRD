@@ -1,7 +1,7 @@
 # KGR4VRD: Knowledge Graph Reasoning for Visual Relationship Detection
 
 ## KGR4VRD
-The **KGR4VRD** repository hosts code associated with aspects of our **neurosymbolic AI research**. This research explores combining symbolic knowledge and symbolic reasoning with deep (subsymbolic) learning in neurosymbolic systems directed at the computer vision task of detecting visual relationships in images. An example visual relationship for a hypothetical image is, say, **(person, ride, horse)**. 
+The **KGR4VRD** repository hosts code associated with aspects of our **neurosymbolic AI research**. This research explores **combining symbolic knowledge and symbolic reasoning with deep (subsymbolic) learning** in neurosymbolic systems directed at the computer vision task of **detecting visual relationships in images**. An example visual relationship for a hypothetical image is, say, **(person, ride, horse)**. 
 
 For the symbolic elements (knowledge and reasoning) of our neurosymbolic systems, we rely entirely on **Semantic Web** technologies. That is, to represent symbolic knowledge, we use **OWL** (the Web Ontology Language), **OWL ontologies** (descriptions of domains of interest that have associated inference semantics), and **OWL knowledge graphs** (ontologies together with asserted facts in RDF triple stores).  For symbolic reasoning, we use **OWL reasoning**, or OWL knowledge graph reasoning. Since OWL is the Semantic Web incarnation of the formal Description logic $\mathcal{SROIQ}$, OWL reasoning is really $\mathcal{SROIQ}$ reasoning. Hence, it is guaranteed to be both logically sound and complete. Description logics are decidable fragments of first-order logic, and $\mathcal{SROIQ}$ is a particularly expressive fragment.
 
